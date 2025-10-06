@@ -26,7 +26,7 @@ public class Main {
 
         KisiselBilgi kisi = new KisiselBilgi(
                 "Emre Düzcan",
-                "duzcanemre@gmail.com",
+                "1210505808@ogr.klu.edu.tr",
                 "+90 534 019 89 08",
                 "Kırklareli / Türkiye",
                 "Ne yapsam hata çıkıyor. Hatayı düzeltiyorum daha fazla hata çıkıyor. Hata çıkmayana kadar düzeltmeye devam. Hatalar elbet bir gün çıkmaktan yorulacak ama ben düzeltmekten yorulmayacağım."
@@ -55,17 +55,17 @@ public class Main {
         ozgecmis.deneyimEkle(new IsDeneyimi(
                 "Üst Düzey Boş Yapıcı", "Biz Gerçek Bir Şirket Değiliz A.Ş.",
                 "Haziran 2003", "Halen",
-                "Ben bu dünyaya her fırsatta aklıma geleni söyleyerek geldim her fırsatta aklıma geleni söyleyerek gideceğim."
+                "Ben bu dünyaya her fırsatta aklıma geleni söyleyerek geldim her fırsatta aklıma geleni söyleyerek gideceğim"
         ));
         ozgecmis.deneyimEkle(new IsDeneyimi(
                 "Baş Teknisyenin Arkadaşı", "Netron Bilişim",
                 "Şubat 2024", "Şubat 2024",
-                "Bilgisayar bakımı, temizliği, hata tespiti ve giderimiyle uğraştım. Mikroskopla anakart falan inceleyip bozuk bir monitörü parçalarına ayırıp katmanlarını gördüm. Keyifliydi."
+                "Bilgisayar bakımı, temizliği, hata tespiti ve giderimiyle uğraştım. Mikroskopla anakart falan inceleyip bozuk bir monitörü parçalarına ayırıp katmanlarını gördüm"
         ));
         ozgecmis.deneyimEkle(new IsDeneyimi(
                 "Çay Taşıyıcı", "Ruh Sömüren Dev Şirket LLC",
                 "Temmuz 2019", "Eylül 2019",
-                "İki oda arasında aynı çay bardağını ileri ve geri taşıdım."
+                "İki oda arasında aynı çay bardağını ileri ve geri taşıdım"
         ));
 
 
